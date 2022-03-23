@@ -12,3 +12,5 @@ Choose one of the buttons and test your chance! As soon as you pick one of the o
 If by chance the choices are the same, then it's a draw. 
 
 ###### Future versions will feature visual improvements, but since this first one emphasizes development with javascript, i will leave it with a basic HTML structure.
+
+###### This project is based in Ania Kubow's "Learn Javascript by building games" video.
